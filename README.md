@@ -1,10 +1,10 @@
 # Datos del Alumno:
 
-Nombres: Nahuel Rodrigo 
-Apellidos: Acevedo Toloza
-Correo: rodriacevedoet32@gmail.com
-Curso y División: 4°2°
-Turno: Mañana
+- Nombres: Nahuel Rodrigo 
+- Apellidos: Acevedo Toloza
+- Correo: rodriacevedoet32@gmail.com
+- Curso y División: 4°2°
+- Turno: Mañana
 
 # Docente:
 Nombre: Gonzalo Consorti
